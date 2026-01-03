@@ -1,0 +1,4 @@
+Git is a free, open-source Distributed Version Control System (DVCS) that tracks changes in code/files, letting developers see project history, collaborate efficiently, and revert to
+older versions; it's known for speed, handling large projects, and enabling offline work by giving each user a full repository copy, making it the industry standard for software development. C
+reated by Linus Torvalds 
+for the Linux kernel, Git uses snapshots and branching for safe, parallel development, integrating with services like GitHub for hosting and sharing
